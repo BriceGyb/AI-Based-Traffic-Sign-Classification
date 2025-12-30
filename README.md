@@ -1,4 +1,6 @@
 # GTSDB Traffic Signs (Detection, Classification, Segmentation)
+<img width="698" height="494" alt="image" src="https://github.com/user-attachments/assets/2edbe254-d840-4d5a-b002-35e57f34383d" />
+
 
 Projet academiqueautour du dataset GTSDB : preparation des donnees, MLP, CNN, transfert EfficientNet et autoencoder de segmentation PyTorch.
 ## Sommaire
